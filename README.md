@@ -1,4 +1,4 @@
-### 👋 Olá eu sou a Thialla Menezes 
+### 👋🏽   Olá eu sou a Thialla Menezes 
 ### Sou Iniciante na área de tecnologia em Java / JavaScript 👩🏽‍💻
 
 <div align="center">
