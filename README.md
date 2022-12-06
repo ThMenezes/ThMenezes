@@ -2,7 +2,7 @@
 
 # 👋🏽   Hello, I'm Thialla Menezes 
 
-### I'm specializing in front-end 👩🏽‍💻
+### frontend developer 👩🏽‍💻
 
 #### Techs:
 
@@ -12,6 +12,8 @@
 ![javascript](https://user-images.githubusercontent.com/109250801/198075567-f0a1d96c-6eca-43ee-b250-acf6b9959123.png)
 ![HTML5](https://user-images.githubusercontent.com/109250801/198075606-bd51191f-f54d-4eb4-94d0-c120e9bd5113.png)
 ![CSS3](https://user-images.githubusercontent.com/109250801/198075648-1157f477-bec7-428c-ad74-21f26d11adbb.png)
+![icons8-figma-48](https://user-images.githubusercontent.com/109250801/206035210-7122ca9c-b832-4976-9ef9-b0a2c7bf5bad.png)
+
 </div>
 </div>
 
@@ -27,5 +29,4 @@
    <a href = "mailto:thita.menezes24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thialla-menezes-82792619b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/ThMenezes/ThMenezes/blob/output/github-contribution-grid-snake.svg)
 </div>
