@@ -4,7 +4,7 @@
 
 ### frontend developer 👩🏽‍💻
 
-#### Techs:
+### Techs:
 
 <div style="display: inline_block"> 
 
@@ -15,19 +15,22 @@
 ![icons8-figma-48](https://user-images.githubusercontent.com/109250801/206035210-7122ca9c-b832-4976-9ef9-b0a2c7bf5bad.png)
 
 </div>
-</div>
 
 <div align="center">
+
   <a href="https://github.com/thmenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmenezes&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=thmenezes&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  </div>  
+  
+</div><br>
    
-<div align="center"> 
-   <a href = "mailto:thita.menezes24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+
+### Contact:
+
+   <a href = "mailto:thiallamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thialla-menezes-82792619b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511985906462&text=Ol%C3%A1%20seja%20bem%20vindo." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
